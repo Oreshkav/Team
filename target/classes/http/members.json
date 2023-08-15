@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Maik Jäger",
+    "description": "The best boss",
+    "position": "1 Vorsitzender",
+    "image": "../public/img/beeboss.jpg",
+    "phone": "+49 5162901266",
+    "facebook": "https://www.facebook.com/MaikJäger",
+    "instagram": "https://www.instagram.com/MaikJäger",
+    "email": "Imkerverein-Ahlden@t-online.de"
+  },
+  {
+    "name": "Peter Förster",
+    "description": "The best manager",
+    "position": "2 Vorsitzender",
+    "image": "../public/img/beeboss.jpg",
+    "phone": "+49 2222222",
+    "facebook": "https://www.facebook.com/PeterFörster",
+    "instagram": "https://www.instagram.com/PeterFörster",
+    "email": "rem@Svinc.com"
+  },
+  {
+    "name": "Vanessa Arndt",
+    "description": "The best imker",
+    "position": "Kassenwartin",
+    "image": "../public/img/beeboss.jpg",
+    "phone": "+49 333333333",
+    "facebook": "https://www.facebook.com/VanessaArndt",
+    "instagram": "https://www.instagram.com/VanessaArndt",
+    "email": "VanessaArndt@gmail.com"
+  },
+  {
+    "name": "Bärbel Grube",
+    "description": "The best imker",
+    "position": "Schriftführerin",
+    "image": "../public/img/beeboss.jpg",
+    "phone": "+49 444444444",
+    "facebook": "https://www.facebook.com/Bärbel Grube",
+    "instagram": "https://www.instagram.com/Bärbel Grube",
+    "email": "BärbelGrube@gmail.com"
+  },
+  {
+    "name": "Heinz Timrott",
+    "description": "The best imker",
+    "position": "Wanderwart",
+    "image": "../public/img/beeboss.jpg",
+    "phone": "+49 55555555",
+    "facebook": "https://www.facebook.com/HeinzTimrott",
+    "instagram": "https://www.instagram.com/HeinzTimrott",
+    "email": "HeinzTimrott@gmail.com"
+  }
+]

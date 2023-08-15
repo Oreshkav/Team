@@ -1,0 +1,52 @@
+### Добавление члена команді
+
+POST localhost:8080/api/members
+Content-Type: application/json
+
+{
+  "name": "Maik Jäger",
+  "description": "The best boss",
+  "position": "1 Vorsitzender",
+  "image": "../public/img/beeboss.jpg",
+  "phone": "+49 5162901266",
+  "facebook": "https://www.facebook.com/MaikJäger",
+  "instagram": "https://www.instagram.com/MaikJäger",
+  "email": "Imkerverein-Ahlden@t-online.de"
+}
+
+### 2 Добавление члена команді
+
+POST localhost:8080/api/members
+Content-Type: application/json
+
+{
+  "name": "Peter Förster",
+  "description": "The best manager",
+  "position": "2 Vorsitzender",
+  "image": "../public/img/beeboss.jpg",
+  "phone": "+49 2222222",
+  "facebook": "https://www.facebook.com/PeterFörster",
+  "instagram": "https://www.instagram.com/PeterFörster",
+  "email": "rem@Svinc.com"
+}
+
+### 3 Добавление члена команді
+
+POST localhost:8080/api/members
+Content-Type: application/json
+
+{
+  "name": "Vanessa Arndt",
+  "description": "The best imker",
+  "position": "Kassenwartin",
+  "image": "../public/img/beeboss.jpg",
+  "phone": "+49 333333333",
+  "facebook": "https://www.facebook.com/VanessaArndt",
+  "instagram": "https://www.instagram.com/VanessaArndt",
+  "email": "VanessaArndt@gmail.com"
+}
+
+
+
+### Getting All Members
+GET localhost:8080/api/members
