@@ -61,10 +61,10 @@ public interface MembersApi {
           })
   })
 
-@GetMapping("/{member-id}")
+  @GetMapping("/{member-id}")
   MemberDto getMemberById(
       @Parameter(required = true, description = "Get Member by Id",
-      example = "1")
+          example = "1")
       @PathVariable("member-id") Integer memberId);
 
 

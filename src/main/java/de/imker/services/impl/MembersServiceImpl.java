@@ -92,8 +92,6 @@ public class MembersServiceImpl implements MembersService {
     return transformMemberToMemberDto(updMember);
   }
 
-
-  //TODO
   private Member getMemberOrThrow(Integer memberId) {
     return memberRepository.findById(memberId).orElseThrow(
         () -> new NotFoundException("Member not found. Id: ", memberId));
